@@ -5,19 +5,19 @@ A machine learning model that predicts house prices in Bangalore based on variou
 
 ## Table of Contents:-
 
-Overview
+[Overview](Overview)
 
-Dataset
+[Dataset](Dataset)
 
-Model
+[Model](Model)
 
-Flask API Setup
+[Flask_API_Setup](Flask_API_Setup)
 
-Flutter Integration
+[Flutter_Integration](Flutter_Integration)
 
-Contributing
+[Contributing](Contributing)
 
-License
+[License](License)
 
 
 
@@ -56,7 +56,7 @@ matplotlib
 The trained model is saved and deployed on a Flask server for real-time predictions.
 
 
-# Flask API Setup
+# Flask_API_Setup
 
 The Flask API is responsible for serving the trained model and handling prediction requests via HTTP. You can use Postman or integrate the API into the Flutter app for predictions.
 
