@@ -83,5 +83,5 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE https://github.com/OMKAR1022/House_prediction/blob/main/LICENSE  file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/OMKAR1022/House_prediction/blob/main/LICENSE)  file for details.
 
